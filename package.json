@@ -1,0 +1,19 @@
+{
+  "name": "fso-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akeonian69/fso-graphql.git"
+  },
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akeonian69/fso-graphql/issues"
+  },
+  "homepage": "https://github.com/akeonian69/fso-graphql#readme"
+}
