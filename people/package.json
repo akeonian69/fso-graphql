@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/akeonian69/fso-graphql/issues"
   },
-  "homepage": "https://github.com/akeonian69/fso-graphql#readme"
+  "homepage": "https://github.com/akeonian69/fso-graphql#readme",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "graphql": "^16.8.1"
+  }
 }
